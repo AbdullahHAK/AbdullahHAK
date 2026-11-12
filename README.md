@@ -2,7 +2,7 @@
 
 Software engineer working across backend, AI and cloud. I build products end to end and maintain them in production.
 
-Currently the sole engineer behind **[yopapi.com](https://yopapi.com)**, an AI social media platform with 20 paying customers.
+Currently the sole engineer behind **[yopapi.com](https://yopapi.com)**, an AI social media platform with 100 paying customers.
 
 [Email](mailto:abdullah.compscientist@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abdullah-nov2004) · [Portfolio](https://portfolio.abdullah-compscientist.workers.dev/)
 
